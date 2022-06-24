@@ -1,5 +1,17 @@
 {
 	"recommendations": [
-		"dbaeumer.vscode-eslint"
+		"dbaeumer.vscode-eslint",
+		"stylelint.vscode-stylelint",
+		"vue.volar",
+		"wayou.vscode-todo-highlight",
+		"techer.open-in-browser",
+		"MS-CEINTL.vscode-language-pack-zh-hans",
+		"streetsidesoftware.code-spell-checker",
+		"clinyong.vscode-css-modules",
+		"mikestead.dotenv",
+		"eamodio.gitlens",
+		"esbenp.prettier-vscode",
+		"vscode-icons-team.vscode-icons",
+		"antfu.theme-vitesse"
 	]
 }
