@@ -27,4 +27,7 @@
     "source.fixAll.stylelint": true,
     "source.fixAll.eslint": true
   },
+  "markdownlint.config": {
+    "MD010": false
+  }
 }

@@ -13,6 +13,7 @@
 		"esbenp.prettier-vscode",
 		"vscode-icons-team.vscode-icons",
 		"antfu.theme-vitesse",
-		"csstools.postcss"
+		"csstools.postcss",
+		"DavidAnson.vscode-markdownlint"
 	]
 }
